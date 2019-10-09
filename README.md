@@ -21,11 +21,17 @@ Bittrex ve Poloniex borsalarında, belirlenen coinlerin fiyat bilgilerini takip 
 
 ## Gereksinimler
 
+## Kurulum
+
 ## Video Örnekler
 
-Emir verme ekranı.
+- Yeni emir verme
 
 [![](http://img.youtube.com/vi/ivHnRD28qas/0.jpg)](http://www.youtube.com/watch?v=ivHnRD28qas "")
+
+- Var olan emirlerin kontorlü ve otomatik işlemlerin yerine getirilmesi. (Uygulama devamlı açık olmalı)
+
+[![](http://img.youtube.com/vi/JLdBx-RElAQ/0.jpg)](http://www.youtube.com/watch?v=JLdBx-RElAQ "")
 
 
 
