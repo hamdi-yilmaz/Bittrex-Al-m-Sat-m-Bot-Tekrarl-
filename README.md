@@ -24,6 +24,7 @@ Bittrex ve Poloniex borsalarında, belirlenen coinlerin fiyat bilgilerini takip 
 ## Video Örnekler
 
 Emir verme ekranı.
+
 [![](http://img.youtube.com/vi/ivHnRD28qas/0.jpg)](http://www.youtube.com/watch?v=ivHnRD28qas "")
 
 
