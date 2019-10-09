@@ -1,7 +1,3 @@
-img {
-  border-radius: 50%;
-}
-
 
 <img src="https://pbs.twimg.com/profile_images/1022945109183275008/_uHiSUwl_400x400.jpg" width="100" >
 
@@ -26,6 +22,9 @@ Bittrex ve Poloniex borsalarında, belirlenen coinlerin fiyat bilgilerini takip 
 ## Gereksinimler
 
 ## Video Örnekler
+
+Emir verme ekranı.
+[![](http://img.youtube.com/vi/ivHnRD28qas/0.jpg)](http://www.youtube.com/watch?v=ivHnRD28qas "")
 
 
 
