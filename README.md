@@ -1,4 +1,4 @@
-<img src="https://lh3.googleusercontent.com/b67MfgU9vteW8Pq4yTUbkgcPJEoAlZ_yhuxYr00IQe2YhBFNegMElEvgjl3c8CBTBxtf" width="100">
+<img src="https://pbs.twimg.com/profile_images/1022945109183275008/_uHiSUwl_400x400.jpg" width="100">
 
 # Bittrex Alim Satim Bot (Tekrarlı)
 
