@@ -1,4 +1,4 @@
-<img src="https://pbs.twimg.com/profile_images/1022945109183275008/_uHiSUwl_400x400.jpg" width="100">
+<img src="https://pbs.twimg.com/profile_images/1022945109183275008/_uHiSUwl_400x400.jpg" width="100" border-radius= "50%" >
 
 # Bittrex Alim Satim Bot (Tekrarlı)
 
